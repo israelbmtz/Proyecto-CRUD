@@ -52,3 +52,11 @@ body{
     cursor: pointer;
     transition: 1s;
 }
+.col-md-6{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 20px;
+}
